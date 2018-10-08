@@ -1,0 +1,11 @@
+What is your name: Nick Sev
+Your class will be mage. Welcome Nick,to the mage class! Here are your stats for your adventure.
+Your agility will be 13.0Pts.
+Your strength will be 16.0Pts.
+Your inteligence will be 21.0Pts.
+Your quest hath begun! 
+You approach a tree, but theirs something odd about this tree..... 
+The tree was not a tree, BUT A LEVEL 10 ORC WITH 1000 HP!
+Ahhh I have 169.68339868245744 Hp! Goodbye!
+
+Process finished with exit code 0

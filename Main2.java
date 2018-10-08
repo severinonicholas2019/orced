@@ -21,7 +21,7 @@ public class Main {
         double orc = 1000;
         double turns = 10;
         double mult = rand.nextDouble() + .5;
-
+//these are the damadfe multipliers and power made from them
         double pwrr = pwr * mult;
         double mult2 = rand.nextInt(1) + .5;
         double pwrr2 = pwr * mult2;

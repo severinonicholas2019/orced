@@ -42,7 +42,7 @@ public class Main {
         double pwrr10 = pwr * mult10;
         double x = orc - (pwrr+pwrr2+pwrr3+pwrr4+pwrr5+pwrr6+pwrr7+pwrr8+pwrr9+pwrr10);
         System.out.println("Ahhh I have " + x + " Hp! Goodbye!");
-        System.out.println("The damadge of the maguc missle would have to be 18.25 to win with a 60-70%");
+        System.out.println("The damadge of the maguc missle would have to be 10 to win with a 60-70%");
 
     }
 

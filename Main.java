@@ -57,7 +57,7 @@ public class Main {
         //this is the amount of damadge done and it give a - number for defeat and positive for fail
         double x = 1000 - tot * 10;
         System.out.println("Ahhh I have " + x + " Hp! Goodbye!");
-
+        System.out.println("The intelegence would have to be 21 to win");
     }
 
 }
